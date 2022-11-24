@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "things",
+      "published": true
+    },
+    {
+      "id": 2,
+      "title": "second",
+      "published": false
+    },
+    {
+      "id": 3,
+      "title": "second",
+      "published": true
+    },
+    {
+      "id": 4,
+      "title": "ping",
+      "published": false
+    },
+    {
+      "id": 5,
+      "title": "anotherone",
+      "published": true
+    },
+    {
+      "id": 6,
+      "title": "thingamabob",
+      "published": true
+    },
+    {
+      "id": 7,
+      "title": "lastthing",
+      "published": false
+    }
+  ]
+}
